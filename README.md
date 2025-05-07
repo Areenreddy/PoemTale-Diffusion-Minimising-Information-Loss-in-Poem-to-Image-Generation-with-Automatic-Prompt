@@ -1,0 +1,1 @@
+# PoemTale-Diffusion-Minimising-Information-Loss-in-Poem-to-Image-Generation-with-Automatic-Prompt
